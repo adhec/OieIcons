@@ -1,0 +1,24 @@
+[Icon Theme]
+Name=Oie
+Comment=Lines of icons for fun (;P), based on Numix
+Inherits=Oie,Numix-Circle,Numix-Square
+
+Example=directory-x-normal
+
+
+# Directory list
+Directories=apps,places
+
+[places]
+Context=Places
+Size=96
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[apps]
+Size=48
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
